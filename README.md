@@ -2,7 +2,7 @@
 \
 ## Dashboard Preview
 
-![CommerceIQ Power BI Dashboard](powerbi_dashboard.png)
+![CommerceIQ Power BI Dashboard](powerbi/powerbi_dashboard.png)
 
 An end-to-end data analytics project exploring the Olist Brazilian E-Commerce dataset using **Python, SQL Server, and Power BI**.
 
