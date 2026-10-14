@@ -1,0 +1,9 @@
+column,data_type,missing_count,missing_percentage,unique_values
+order_id,str,0,0.0,99441
+customer_id,str,0,0.0,99441
+order_status,str,0,0.0,8
+order_purchase_timestamp,datetime64[us],0,0.0,98875
+order_approved_at,datetime64[us],160,0.16,90733
+order_delivered_carrier_date,datetime64[us],1783,1.79,81018
+order_delivered_customer_date,datetime64[us],2965,2.98,95664
+order_estimated_delivery_date,datetime64[us],0,0.0,459

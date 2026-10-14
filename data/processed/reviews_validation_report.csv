@@ -1,0 +1,8 @@
+check,result
+total_review_records,99224
+unique_review_ids,98410
+repeated_review_ids,789
+orders_with_reviews,98673
+unknown_order_reference_rows,0
+invalid_scores,0
+invalid_date_sequences,0
